@@ -1,6 +1,7 @@
 Customer management dashboard
 
-- Running project:
+ 
+ # Running project:
  npm run start
  npm run dev
 
